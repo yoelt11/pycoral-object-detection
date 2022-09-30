@@ -1,0 +1,3 @@
+model_name: SSD_MobileNet_V2
+input_size: [300,300,3]
+dataset: COCO

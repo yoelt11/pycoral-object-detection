@@ -1,0 +1,3 @@
+model_name: EfficientDet_Lite1
+input_size: [384,384,3]
+dataset: COCO
